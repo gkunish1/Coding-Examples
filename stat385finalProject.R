@@ -1,4 +1,4 @@
-setwd("/Users/osmanqureshi/Desktop")
+setwd("/Users/gavin-kunish/Desktop")
 CPS <- read.csv(file = "CPS_Data.csv", header = TRUE)
 
 summary(CPS)
